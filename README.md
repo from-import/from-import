@@ -1,4 +1,4 @@
-### Hello World!  <img src="image/image66.png" style="width: 90px; height: 90px;" align="right" />  <img src="https://github.com/from-import/from-import/blob/master/assets/Hi.gif" width="29px">
+### Hello World!  <img src="https://github.com/from-import/from-import/blob/master/assets/Hi.gif" width="29px">
 
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=from-import&label=Profile%20Visits&color=blue&style=for-the-badge)
@@ -31,7 +31,7 @@ me.say_hi()
   
   #### 📫 How to reach me:
   
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>   <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>   <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>   <a href="mailto:link@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>   <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>   <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>   <a href="mailto:link@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> <img src="image/image66.png" style="width: 35px; height: 35px;"/> 
   
   #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
