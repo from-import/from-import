@@ -1,7 +1,9 @@
-### Hello World!  <img src="image/image66.png" style="width: 120px; height: 120px;" align="right" />  <img src="https://github.com/from-import/from-import/blob/master/assets/Hi.gif" width="29px">
+### Hello World!  <img src="image/image66.png" style="width: 90px; height: 90px;" align="right" />  <img src="https://github.com/from-import/from-import/blob/master/assets/Hi.gif" width="29px">
 
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=from-import&label=Profile%20Visits&color=blue&style=for-the-badge)
+
+
 
 
 <img src="https://github.com/from-import/from-import/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
