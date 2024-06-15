@@ -1,14 +1,28 @@
   ### Hello World!  <img src="https://github.com/from-import /from-import /blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=from-import &label=Profile%20Visits&color=blue&style=for-the-badge)
+(https://komarev.com/ghpvc/?username=from-import &label=Profile%20Visits&color=blue&style=for-the-badge)
   
 <img src="https://github.com/from-import /from-import /blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/from-import "> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
-  - 🔭 I’m currently a Graduate Research student in 
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about 
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "me"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
   
   #### 📫 How to reach me:
   
