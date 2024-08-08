@@ -1,4 +1,4 @@
-### Hello World!  <img src="https://github.com/from-import/from-import/blob/master/assets/Hi.gif" width="29px">
+### Hello World!
 
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=from-import&label=Profile%20Visits&color=blue&style=for-the-badge)
@@ -6,7 +6,6 @@
 
 
 
-<img src="https://github.com/from-import/from-import/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/from-import"></a>
 
 ```python
