@@ -12,9 +12,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class SoftwareEngineer:
-
     def __init__(self):
         self.name = "me"
         self.role = "Software Engineer"
